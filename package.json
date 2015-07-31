@@ -4,7 +4,7 @@
   "description": "Node module to communicate with YourMailingListProvider (YMLP) API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./ --timeout 5000"
   },
   "repository": {
     "type": "git",
