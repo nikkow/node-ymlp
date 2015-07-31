@@ -8,6 +8,10 @@ Before using this module, you need to enable the API usage and retrieve your API
 
 ### Usage
 
+Installation from npm repository:
+
+	npm install --save node-ymlp
+
 You need to include the library and create new instance with your API credentials:
 
 	var YMLP = require("node-ymlp");
