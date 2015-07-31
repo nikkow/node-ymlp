@@ -1,0 +1,34 @@
+{
+  "name": "node-ymlp",
+  "version": "1.0.0",
+  "description": "Node module to communicate with YourMailingListProvider (YMLP) API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikkow/node-ymlp.git"
+  },
+  "keywords": [
+    "ymlp",
+    "mailing",
+    "list",
+    "newsletter"
+  ],
+  "author": "Nicolas Nunge <http://www.nikkow.eu> (me@nikkow.eu)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/nikkow/node-ymlp/issues"
+  },
+  "homepage": "http://www.nikkow.eu/node-ymlp/",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.60.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "should": "^7.0.2"
+  }
+}
